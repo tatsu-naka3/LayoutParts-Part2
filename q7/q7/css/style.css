@@ -12,27 +12,6 @@
   border-radius: 30px;
 }
 
-/* .hukidashi--box:before {
-  border-top: 20px solid #8f5a0a;
-}
-
-.hukidashi--box:before {
-  content: "";
-  position: absolute;
-  border-top: 20px solid #8f5a0a;
-  bottom: -45px;
-} */
-
-/* .hukidashi--box:after{
-  content: "";
-  position: absolute;
-  bottom: -20px;
-  left: 30px;
-  border-style: solid;
-  border-color: #fed296 transparent;
-  border-width: 20px 20px 0 20px;
-} */
-
 .hukidashi--box:before,.hukidashi--box:after {
   content: "";
   position: absolute;
